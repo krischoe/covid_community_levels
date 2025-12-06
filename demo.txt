@@ -1,0 +1,1 @@
+Add demo.mp4 (binary) to the repository root or to releases if you prefer. Large binaries should be stored in release assets or external storage (S3, Google Drive) rather than in Git.

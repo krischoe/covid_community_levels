@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual env
+.venv/
+venv/
+
+# Pytest cache
+.cache/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# env files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
