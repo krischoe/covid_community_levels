@@ -1,2 +1,19 @@
-date,value
-2025-01-01,100
+county,county_fips,state,county_population,health_service_area_number,health_service_area,health_service_area_population,covid_inpatient_bed_utilization,covid_hospital_admissions_per_100k,covid_cases_per_100k,covid-19_community_level,date_updated
+Bullock County,01011,Alabama,10101,171,"Montgomery (Montgomery), AL - Autauga, AL",386117,1.9,4.7,89.10,Low,2022-09-29
+Calhoun County,01015,Alabama,113605,177,"Calhoun (Anniston), AL - Carroll, GA",278299,2.5,5.4,631.13,Medium,2022-09-29
+Chambers County,01017,Alabama,33254,172,"Coweta, GA - Troup (La Grange), GA",307497,4.0,4.9,66.16,Low,2022-09-29
+Clarke County,01025,Alabama,23622,161,"Mobile (Mobile), AL - Baldwin, AL",697125,1.7,5.5,50.80,Low,2022-09-29
+Conecuh County,01035,Alabama,12067,163,"Escambia (Pensacola), FL - Okaloosa, FL",836138,1.9,7.2,99.44,Low,2022-09-29
+Crenshaw County,01041,Alabama,13772,171,"Montgomery (Montgomery), AL - Autauga, AL",386117,1.9,4.7,145.22,Low,2022-09-29
+Etowah County,01055,Alabama,102268,224,"Etowah (Gadsden), AL - Marshall, AL",296751,1.1,3.4,106.58,Low,2022-09-29
+Fayette County,01057,Alabama,16302,247,"Marion, AL - Fayette, AL",46011,0.8,4.3,73.61,Low,2022-09-29
+Geneva County,01061,Alabama,26271,162,"Houston (Dothan), AL - Dale, AL",277857,3.0,9.0,45.68,Low,2022-09-29
+Hale County,01065,Alabama,14651,156,"Tuscaloosa (Tuscaloosa), AL - Pickens, AL",252047,3.0,2.4,54.60,Low,2022-09-29
+Lawrence County,01079,Alabama,32924,185,"Morgan (Decatur), AL - Lawrence, AL",152603,2.3,3.9,85.04,Low,2022-09-29
+Lowndes County,01085,Alabama,9726,171,"Montgomery (Montgomery), AL - Autauga, AL",386117,1.9,4.7,82.25,Low,2022-09-29
+Marshall County,01095,Alabama,96774,224,"Etowah (Gadsden), AL - Marshall, AL",296751,1.1,3.4,109.53,Low,2022-09-29
+Russell County,01113,Alabama,57961,166,"Muscogee (Columbus), GA - Russell, AL",328912,3.7,4.3,62.11,Low,2022-09-29
+Tallapoosa County,01123,Alabama,40367,179,"Lee (Auburn), AL - Elmore, AL",304186,1.1,1.6,116.43,Low,2022-09-29
+Walker County,01127,Alabama,63521,150,"Jefferson (Birmingham), AL - Shelby, AL",1237724,2.2,6.5,133.81,Low,2022-09-29
+Washington County,01129,Alabama,16326,161,"Mobile (Mobile), AL - Baldwin, AL",697125,1.7,5.5,79.63,Low,2022-09-29
+Winston County,01133,Alabama,23629,219,"Lauderdale (Florence), AL - Colbert, AL",202961,1.6,5.4,245.46,Medium,2022-09-29
