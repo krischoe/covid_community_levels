@@ -1,2 +1,5 @@
 # etl package initializer
-# (This file makes `etl` an importable package for tests and other code)
+# Make the transform submodule available as an attribute of the etl package
+from . import transform
+
+__all__ = ["transform"]
