@@ -54,7 +54,11 @@ def clean_data():
 
     # Output to parquet
     STAGED_PATH.parent.mkdir(exist_ok=True)
-    df.to_parquet(STAGED_PATH, index=False)
+    print("DataFrame shape:", df.shape)
+    print(df.head())
+
+    df.to_parquet(STAGED_PATH, engine="pyarrow",
+    compression="snappy", index=False)
     print("Staged data saved:", STAGED_PATH)
 
 if __name__ == "__main__":
