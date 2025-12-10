@@ -5,9 +5,13 @@ import pandas as pd
 import pathlib
 from pathlib import Path
 from typing import Optional, Dict, Any
+import os
+print("CWD:", os.getcwd())
 
 RAW_PATH = pathlib.Path("data/sample.csv")
-STAGED_PATH = pathlib.Path("data/staged.parquet")
+STAGED_PATH = pathlib.Path("data/staged.parquet").resolve()
+print("Writing parquet to:", STAGED_PATH)
+
 
 def summarize(path: Optional[str] = None) -> Dict[str, Any]:
     """
